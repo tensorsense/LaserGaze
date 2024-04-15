@@ -1,5 +1,6 @@
 # LaserGaze💥👀 : Real-Time Gaze Direction Estimation
 
+Most libraries for gaze estimation process frames individually. LaserGaze works differently. It’s built to work with temporal data by design and delivers more accurate and stable results for video streams.
 
 | Frame-by-Frame estimation (Park et al, 2018) |                    LaserGaze                    |
 |:-------------:|:-----------------------------------------------:|
